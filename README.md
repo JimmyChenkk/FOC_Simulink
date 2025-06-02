@@ -17,4 +17,6 @@ Additionally, a detailed **project report** is included in this repository (see 
 > **关键词**：FOC、三相异步电机、SVPWM、Simulink、矢量控制、转子磁链定向  
 > **Keywords**: FOC, three-phase induction motor, SVPWM, Simulink, vector control, rotor flux orientation
 
+## 软件要求 | Requirements
 
+MATLAB-R2025a
