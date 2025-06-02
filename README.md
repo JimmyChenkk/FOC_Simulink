@@ -1,9 +1,9 @@
 # 三相异步电机FOC控制仿真（基于Simulink）  
-### FOC with Rotor Flux Orientation for Three-Phase Induction Motor (Simulink-Based)
+# FOC with Rotor Flux Orientation for Three-Phase Induction Motor (Simulink-Based)
 
 ---
 
-## 项目简介 | Project Description
+# 项目简介 | Project Description
 
 本项目在 Simulink 中实现了**三相异步电机的矢量控制（FOC）技术**，采用**转子磁链定向（Rotor Flux Orientation）**方案，同时使用了**空间矢量脉宽调制（SVPWM）**方法进行逆变控制。
 
