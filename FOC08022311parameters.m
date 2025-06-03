@@ -37,7 +37,7 @@ L_lr = 0.2898-0.2838;      % 转子漏感（单位：H）
 L_s = L_m + L_ls;   % 定子总电感（单位：H）
 L_r = L_m + L_lr;   % 转子总电感（单位：H）
 
-sigma = 1 - L_m^2 / (L_s + L_r);  % 总漏磁系数（Leakage coefficient）
+sigma = 1 - L_m^2 / (L_s * L_r);  % 总漏磁系数（Leakage coefficient）
 
 R = R_s + R_r * (L_m/L_r)^2;      % 用于电流环设计的等效电阻（单位：Ω）
 L = sigma * L_s;                  % 用于电流环设计的等效电感（单位：H）
