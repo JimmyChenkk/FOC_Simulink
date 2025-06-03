@@ -14,6 +14,9 @@ This project is modified based on the open-source repository [opsniian/simulink-
 此外，本仓库还包含了对该项目的详细**报告文档**（见仓库内 PDF 文件：FOC.pdf），以帮助更好地理解模型设计与控制策略。  
 Additionally, a detailed **project report** is included in this repository (see the PDF file: `FOC.pdf`) to help better understand the model design and control strategy.
 
+内容仅供参考，如有错误欢迎批评指正，谢谢。
+For reference only. If there are any errors, constructive criticism is welcome. Thank you.
+
 > **关键词**：FOC、三相异步电机、SVPWM、Simulink、矢量控制、转子磁链定向  
 > **Keywords**: FOC, three-phase induction motor, SVPWM, Simulink, vector control, rotor flux orientation
 
