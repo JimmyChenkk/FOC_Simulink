@@ -2,6 +2,7 @@
 # Flux Orientation Control (FOC) for Three-Phase Induction Asynchronous Motor (Simulink)
 
 ---
+![示例图片](figures/FOC整体模型预览.png)
 
 ## 项目简介 | Project Description
 
